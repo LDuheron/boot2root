@@ -30,3 +30,8 @@ sites with informations about attacks
 https://attack.mitre.org/#
 https://owasp.org/www-project-top-ten/
 https://www.cvedetails.com/
+
+we can check which commands we can perform without password with command
+## sudo -l ##
+we can search for vulnerabilities of system by using that command on the website
+https://gtfobins.github.io/
